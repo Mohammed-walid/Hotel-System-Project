@@ -15,5 +15,4 @@ A robust, console-based Hotel Management System built in standard C. Developed c
 * `header.c` - Core implementation of system logic, reservations, check-ins/outs, and file updates.
 * `header.h` - Header definitions containing data structures for users, rooms, and reservations.
 * Data files (`users.txt`, `room.txt`, `reservations.txt`) - Flat-file databases managed dynamically by the application.
-
-t.git)
+* 
